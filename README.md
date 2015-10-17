@@ -1,7 +1,7 @@
 # 2015 jQuery Developer Summit
 > a sandbox site for making mistakes
 
-`2015-developer-summit` is a static site built using [Boostrap][1].
+`2015-developer-summit` is a static site built using [Bootstrap][1].
 It uses [npm][2] to manage its dependencies.
 Custom static assets live in the `public` directory.
 
